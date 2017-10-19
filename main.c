@@ -2,7 +2,7 @@
 // File Name: main.c
 // Date: 10-01-2017
 
-// feature-1 brnach pull request test
+// feature-1 branch pull request test
 
 
 #include <bcm2835.h>
